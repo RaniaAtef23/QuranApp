@@ -1,6 +1,9 @@
 # 📖 **Quran Companion**  
 *Your Ultimate Digital Mushaf - Learn, Pray, Connect*  
 ---
+# 🎥Demo
+https://github.com/user-attachments/assets/c596c289-668d-4ed0-be1e-b6a53ba7bf9d
+
 
 ## 🌟 **Key Features**  
 
