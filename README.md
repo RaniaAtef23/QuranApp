@@ -1,16 +1,24 @@
-# quran_app
+# 📖 **Quran Companion**  
+*Your Ultimate Digital Mushaf - Learn, Pray, Connect*  
+---
 
-A new Flutter project.
+## 🌟 **Key Features**  
 
-## Getting Started
+### 👨‍🏫 **Interactive Learning Platform**  
+- **Teacher Profiles**: Verified Quran instructors with bios and ratings  
+- **Subscription Model**: Students can enroll with specific teachers  
+- **Virtual Classroom**: Schedule sessions, submit recordings, get feedback  
 
-This project is a starting point for a Flutter application.
+### 🕋 **Worship Tools**  
+| Feature          | Details                          |
+|------------------|----------------------------------|
+| **Salah Times**  | Accurate with location detection |
+| **Qibla Finder** | AR compass + mosque locator      |
+| **Tasbih Counter** | Digital dhikr tracker          |
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 📖 **Quran Experience**  
+```diff
++ Read: Customizable fonts/themes
++ Listen: 50+ renowned reciters
++ Learn: Word-by-word translation
++ Track: Progress bookmarks
